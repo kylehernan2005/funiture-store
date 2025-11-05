@@ -1,4 +1,5 @@
-FurniHome- Static e-commerce demo
+
+Wood & Co. - Static e-commerce demo
 ----------------------------------
 - Static site built with HTML, Bootstrap, and plain JavaScript.
 - Currency uses Philippine Peso (₱) as requested.
